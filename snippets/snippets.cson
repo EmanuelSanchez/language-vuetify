@@ -17,10 +17,6 @@
     "prefix": "avatar"
     "body": "<v-avatar$1>$2</v-avatar>"
     "description": "The v-avatar component is used to control the size and border radius of responsive images, typically used to show profile pictures."
-  "Avatar":
-    "prefix": "avatar"
-    "body": "<v-avatar$1>$2</v-avatar>"
-    "description": "The v-avatar component is used to control the size and border radius of responsive images, typically used to show profile pictures."
   "Breadcrumbs":
     "prefix": "breadcrumbs"
     "body": "<v-breadcrumbs$1>$2</v-breadcrumbs>"
@@ -203,26 +199,30 @@
     "prefix": "text-field"
     "body": "<v-text-field$1>$2</v-text-field>"
     "description": "The v-tabs component is used for hiding content behind a selectable item."
+  "Toolbar":
+    "prefix": "toolbar"
+    "body": "<v-toolbar$1>$2</v-toolbar>"
+    "description": "The v-toolbar component is pivotal to any gui, as it generally is the primary source of site navigation."
 
 ".meta.tag":
-  'Name':
-    'prefix': 'name'
-    'body': 'name="$1"'
-  'Label':
-    'prefix': 'label'
-    'body': 'label="$1"'
-  'Id':
-    'prefix': 'id'
-    'body': 'id="$1"'
-  'Value':
-    'prefix': 'value'
-    'body': 'value="$1"'
+  'Dark Theme':
+        'prefix': 'dark'
+        'body': 'dark'
   'Disabled':
     'prefix': 'disabled'
     'body': 'disable'
-  'Dark Theme':
-    'prefix': 'dark'
-    'body': 'dark'
+  'Id':
+    'prefix': 'id'
+    'body': 'id="$1"'
+  'Label':
+    'prefix': 'label'
+    'body': 'label="$1"'
   'Light Theme':
     'prefix': 'light'
     'body': 'light'
+  'Name':
+    'prefix': 'name'
+    'body': 'name="$1"'
+  'Value':
+    'prefix': 'value'
+    'body': 'value="$1"'

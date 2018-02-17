@@ -2,17 +2,30 @@
   "name": "language-vuetify",
   "main": "./lib/language-vuetify",
   "version": "0.0.1",
+  "author": {
+    "name": "Emanuel Sánchez",
+    "email": "emanuelsab@gmail.com",
+    "url": "https://github.com/EmanuelSanchez"
+  },
+  "bugs": {
+    "url": "https://github.com/EmanuelSanchez/language-vuetify/issues"
+  },
   "description": "Vuetify component support in Atom",
   "keywords": [
+    "Vuejs",
+    "snippets",
+    "Vuejs 2.0",
+    "Vue"
   ],
   "activationCommands": {
     "atom-workspace": "language-vuetify:toggle"
   },
-  "repository": "https://github.com/atom/language-vuetify",
+  "repository": "https://github.com/EmanuelSanchez/language-vuetify",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-  }
+  },
+  "homepage": "https://github.com/CorentinAndre/Vuejs-snippets#readme"
 }
