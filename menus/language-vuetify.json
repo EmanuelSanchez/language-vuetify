@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-vuetify",
+        "command": "language-vuetify:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-vuetify",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-vuetify:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

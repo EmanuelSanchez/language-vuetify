@@ -1,0 +1,228 @@
+".text.html.vue":
+  "Container":
+    "prefix": "container"
+    "body": "<v-container$1>$2</v-container>"
+    "description": "It can be used for a center focused page, or given the fluid prop to extend its full width"
+  "Layout":
+    "prefix": "layout"
+    "body": "<v-layout$1>$2</v-layout>"
+    "description": "It is used for separating sections"
+  "Flex":
+    "prefix": "flex"
+    "body": "<v-flex$1>$2</v-flex>"
+  "Alert":
+    "prefix": "alert"
+    "body": "<v-alert$1>$2</v-alert>"
+  "Avatar":
+    "prefix": "avatar"
+    "body": "<v-avatar$1>$2</v-avatar>"
+    "description": "The v-avatar component is used to control the size and border radius of responsive images, typically used to show profile pictures."
+  "Avatar":
+    "prefix": "avatar"
+    "body": "<v-avatar$1>$2</v-avatar>"
+    "description": "The v-avatar component is used to control the size and border radius of responsive images, typically used to show profile pictures."
+  "Breadcrumbs":
+    "prefix": "breadcrumbs"
+    "body": "<v-breadcrumbs$1>$2</v-breadcrumbs>"
+    "description": "The v-breadcrumbs component is a navigational helper for pages."
+  "Bottom navigation":
+    "prefix": "bottom-nav"
+    "body": "<v-bottom-nav$1>$2</v-bottom-nav>"
+    "description": "The v-bottom-nav is an alternative to the sidebar."
+  "Button":
+    "prefix": "btn"
+    "body": "<v-btn$1>$2</v-btn>"
+    "description": "The v-btn component replaces the standard html button with a material design theme and a multitude of options."
+  "Card":
+    "prefix": "card"
+    "body": "<v-card$1>$2</v-card>"
+    "description": "The v-card component is a versatile component that can be used for anything from a panel to a static image."
+  "Card Media":
+    "prefix": "card-media"
+    "body": "<v-card-media$1>$2</v-card-media>"
+  "Card Title":
+    "prefix": "card-title"
+    "body": "<v-card-title$1>$2</v-card-title>"
+  "Card Text":
+    "prefix": "card-text"
+    "body": "<v-card-text$1>$2</v-card-text>"
+  "Card Action":
+    "prefix": "card-actions"
+    "body": "<v-card-actions$1>$2</v-card-actions>"
+  "Carousel":
+    "prefix": "carousel"
+    "body": "<v-carousel$1>$2</v-carousel>"
+    "description": "The v-carousel component is used to display large numbers of visual content on a rotating timer."
+  "Carousel Item":
+    "prefix": "carousel-item"
+    "body": "<v-carousel-item$1>$2</v-carousel-item>"
+    "description": "The v-carousel-item component add a item for v-carousel."
+  "Checkbox":
+    "prefix": "checkbox"
+    "body": "<v-checkbox$1>$2</v-checkbox>"
+  "Chip":
+    "prefix": "chip"
+    "body": "<v-chip$1>$2</v-chip>"
+    "description": "The v-chip component is used to convey small pieces of information."
+  "Data tables":
+    "prefix": "data-table"
+    "body": "<v-data-table$1>$2</v-data-table>"
+    "description": "The v-data-table component is used for displaying tabular data."
+  "Dialog":
+    "prefix": "dialog"
+    "body": "<v-dialog$1>$2</v-dialog>"
+    "description": "The v-dialog component inform users about a specific task and may contain critical information, require decisions, or involve multiple tasks."
+  "Dividers":
+    "prefix": "divider"
+    "body": "<v-divider$1>$2</v-divider>"
+    "description": "The v-divider component is used to separate sections of lists."
+  "Expansion Panel":
+    "prefix": "expansion-panel"
+    "body": "<v-expansion-panel$1>$2</v-expansion-panel>"
+    "description": "The v-expansion-panel component is useful for reducing vertical space with large amounts of information."
+  "Footer":
+    "prefix": "footer"
+    "body": "<v-footer$1>$2</v-footer>"
+    "description": "The v-footer component is used for displaying general information that a user might want to access from any page within your site."
+  "Forms":
+    "prefix": "form"
+    "body": "<v-form$1>$2</v-form>"
+    "description": "When it comes to form validation."
+  "List":
+    "prefix": "list"
+    "body": "<v-list$1>$2</v-list>"
+    "description": "The v-list component is used to display information."
+  "List Tile":
+    "prefix": "list-tile"
+    "body": "<v-list-tile$1>$2</v-list-tile>"
+  "List Tile Title":
+    "prefix": "list-tile-title"
+    "body": "<v-list-tile-title$1>$2</v-list-tile-title>"
+  "List Tile Subtitle":
+    "prefix": "list-tile-sub-title"
+    "body": "<v-list-tile-sub-title$1>$2</v-list-tile-sub-title>"
+  "List Tile Avatar":
+    "prefix": "list-tile-avatar"
+    "body": "<v-list-tile-avatar$1>$2</v-list-tile-avatar>"
+  "List Tile Action":
+    "prefix": "list-tile-action"
+    "body": "<v-list-tile-action$1>$2</v-list-tile-action>"
+  "List Tile Content":
+    "prefix": "list-tile-content"
+    "body": "<v-list-tile-content$1>$2</v-list-tile-content>"
+  "Menu":
+    "prefix": "menu"
+    "body": "<v-menu$1>$2</v-menu>"
+    "description": "The v-menu component shows a menu at the position of the element used to activate it."
+  "Navigation drawer":
+    "prefix": "navigation-drawer"
+    "body": "<v-navigation-drawer$1>$2</v-navigation-drawer>"
+    "description": "The v-menu component shows a menu at the position of the element used to activate it."
+  "Pagination":
+    "prefix": "pagination"
+    "body": "<v-pagination$1>$2</v-pagination>"
+    "description": "The v-pagination component is used to separate long sets of data so that it is easier for a user to consume information."
+  "Parallax":
+    "prefix": "parallax"
+    "body": "<v-parallax$1>$2</v-parallax>"
+    "description": "The v-parallax component creates a 3d effect that makes an image appear to scroll slower than the window."
+  "Date Picker":
+    "prefix": "date-picker"
+    "body": "<v-date-picker$1>$2</v-date-picker>"
+    "description": "The v-date-picker and v-time-picker are stand-alone components that can be utilized in many existing Vuetify components."
+  "Time Pickers":
+    "prefix": "time-picker"
+    "body": "<v-time-picker$1>$2</v-time-picker>"
+    "description": "The v-date-picker and v-time-picker are stand-alone components that can be utilized in many existing Vuetify components."
+  "Circular Progress":
+    "prefix": "progress-circular"
+    "body": "<v-progress-circular$1>$2</v-progress-circular>"
+    "description": "The v-progress-circular and v-progress-linear components are used to convey data visually to users."
+  "Linear Progress":
+    "prefix": "progress-linear"
+    "body": "<v-progress-linear$1>$2</v-progress-linear>"
+    "description": "The v-progress-circular and v-progress-linear components are used to convey data visually to users."
+  "Radio Group":
+    "prefix": "radio-group"
+    "body": "<v-radio-group$1>$2</v-radio-group>"
+  "Radio":
+    "prefix": "radio"
+    "body": "<v-radio$1>$2</v-radio>"
+  "Select":
+    "prefix": "select"
+    "body": "<v-select$1>$2</v-select>"
+    "description": "Select fields components are used for collecting user provided information from a list of options."
+  "Slider":
+    "prefix": "slider"
+    "body": "<v-slider$1>$2</v-slider>"
+    "description": "The v-slider component is a better visualization of the number input."
+  "Snackbar":
+    "prefix": "snackbar"
+    "body": "<v-snackbar$1>$2</v-snackbar>"
+    "description": "The v-snackbar component is used to display a quick message to a user."
+  "Spacer":
+    "prefix": "spacer"
+    "body": "<v-spacer$1>$2</v-spacer>"
+  "Stepper":
+    "prefix": "stepper"
+    "body": "<v-stepper$1>$2</v-stepper>"
+    "description": "The v-snackbar component is used to display a quick message to a user."
+  "Stepper - Header":
+    "prefix": "stepper-header"
+    "body": "<v-stepper-header$1>$2</v-stepper-header>"
+  "Stepper - Step":
+    "prefix": "stepper-step"
+    "body": "<v-stepper-step$1>$2</v-stepper-step>"
+  "Stepper - Content":
+    "prefix": "stepper-content"
+    "body": "<v-stepper-content$1>$2</v-stepper-content>"
+  "Subheaders":
+    "prefix": "subheader"
+    "body": "<v-subheader$1>$2</v-subheader>"
+    "description": "The v-subheader component is used to separate sections of lists."
+  "Tabs":
+    "prefix": "tabs"
+    "body": "<v-tabs$1>$2</v-tabs>"
+    "description": "The v-tabs component is used for hiding content behind a selectable item."
+  "Tabs - Bar":
+    "prefix": "tabs-bar"
+    "body": "<v-tabs-bar$1>$2</v-tabs-bar>"
+  "Tabs - Item":
+    "prefix": "tabs-item"
+    "body": "<v-tabs-item$1>$2</v-tabs-item>"
+  "Tabs - Slider":
+    "prefix": "tabs-slider"
+    "body": "<v-tabs-slider$1>$2</v-tabs-slider>"
+  "Tabs - Items":
+    "prefix": "tabs-items"
+    "body": "<v-tabs-items$1>$2</v-tabs-items>"
+  "Tabs - Content":
+    "prefix": "tabs-content"
+    "body": "<v-tabs-content$1>$2</v-tabs-content>"
+  "Text fields":
+    "prefix": "text-field"
+    "body": "<v-text-field$1>$2</v-text-field>"
+    "description": "The v-tabs component is used for hiding content behind a selectable item."
+
+".meta.tag":
+  'Name':
+    'prefix': 'name'
+    'body': 'name="$1"'
+  'Label':
+    'prefix': 'label'
+    'body': 'label="$1"'
+  'Id':
+    'prefix': 'id'
+    'body': 'id="$1"'
+  'Value':
+    'prefix': 'value'
+    'body': 'value="$1"'
+  'Disabled':
+    'prefix': 'disabled'
+    'body': 'disable'
+  'Dark Theme':
+    'prefix': 'dark'
+    'body': 'dark'
+  'Light Theme':
+    'prefix': 'light'
+    'body': 'light'
