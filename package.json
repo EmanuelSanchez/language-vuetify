@@ -15,7 +15,8 @@
     "Vuejs",
     "snippets",
     "Vuejs 2.0",
-    "Vue"
+    "Vue",
+    "Vuetify"
   ],
   "activationCommands": {
     "atom-workspace": "language-vuetify:toggle"
