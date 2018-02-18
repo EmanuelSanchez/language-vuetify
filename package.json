@@ -1,7 +1,7 @@
 {
   "name": "language-vuetify",
   "main": "./lib/language-vuetify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": {
     "name": "Emanuel Sánchez",
     "email": "emanuelsab@gmail.com",
@@ -25,7 +25,6 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "homepage": "https://github.com/CorentinAndre/Vuejs-snippets#readme"
 }
