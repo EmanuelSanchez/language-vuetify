@@ -2,6 +2,25 @@
 
 Adds snippets of Vuetify to Vue component files in Atom.
 
+## Installation
+
+### Command Line
+
+In the terminal, install the package via apm:
+
+```sh
+apm install teletype
+```
+    
+### GUI
+
+1. Launch Atom
+2. Open Settings View using <kbd>Cmd+,</kbd> on macOS or <kbd>Ctrl+,</kbd> on other platforms
+3. Click the Install tab on the left side
+4. Enter `language-vuetify` in the search box and press <kbd>Enter</kbd>
+5. Click the "Install" button that appears
+
+
 ## Vuetify Snippets
 
 ```html
@@ -74,3 +93,7 @@ light
 name
 value
 ```
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
