@@ -9,7 +9,7 @@ Adds snippets of Vuetify to Vue component files in Atom.
 In the terminal, install the package via apm:
 
 ```sh
-apm install teletype
+apm install language-vuetify
 ```
     
 ### GUI
